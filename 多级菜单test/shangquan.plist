@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>code</key>
+	<string>SUCCESS</string>
+	<key>data</key>
+	<array>
+		<dict>
+			<key>dictName</key>
+			<string>商圈</string>
+			<key>dictType</key>
+			<integer>2</integer>
+			<key>dictValue</key>
+			<string>6</string>
+			<key>dictionaryDataList</key>
+			<array>
+				<dict>
+					<key>dataName</key>
+					<string>罗湖区</string>
+					<key>dictId</key>
+					<integer>6</integer>
+					<key>id</key>
+					<integer>142</integer>
+				</dict>
+				<dict>
+					<key>dataName</key>
+					<string>福田区</string>
+					<key>dictId</key>
+					<integer>6</integer>
+					<key>id</key>
+					<integer>143</integer>
+				</dict>
+				<dict>
+					<key>dataName</key>
+					<string>南山区</string>
+					<key>dictId</key>
+					<integer>6</integer>
+					<key>id</key>
+					<integer>144</integer>
+				</dict>
+				<dict>
+					<key>dataName</key>
+					<string>宝安区</string>
+					<key>dictId</key>
+					<integer>6</integer>
+					<key>id</key>
+					<integer>145</integer>
+				</dict>
+				<dict>
+					<key>dataName</key>
+					<string>龙岗区</string>
+					<key>dictId</key>
+					<integer>6</integer>
+					<key>id</key>
+					<integer>146</integer>
+				</dict>
+			</array>
+			<key>id</key>
+			<integer>6</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
